@@ -1,6 +1,7 @@
-# SilentDash
 <h1 align="center">Hey 👋, Wellcome to the Github Repo of SilentDash</h1>
 <h3 align="center">Silent Dash is a Dashboard for Pterodactyl API to automate Server & User Creation and editig</h3>
+
+
 
 
 <h3 align="left">Written with:</h3>
